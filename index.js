@@ -1,3 +1,7 @@
+// TODO: не работают трансформы браузерифай
+// TODO: mocha, sinon и chai нужно убрать из пакета
+// TODO: браузерифай может бандлить mocha при желании
+
 var gulp = require('gulp');
 var args = require('yargs').argv;
 

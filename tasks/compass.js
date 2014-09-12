@@ -10,7 +10,8 @@ module.exports = function(options) {
       compass: true,
       bundleExec: true,
       sourcemap: true,
-      sourcemapPath: '../../src/sass'
+      sourcemapPath: '../../src/sass',
+      loadPath: options.loadPath
     }))
     .pipe(cmq({
         log: true

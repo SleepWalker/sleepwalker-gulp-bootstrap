@@ -1,6 +1,6 @@
 {
   "name": "sleepwalker-gulp-bootstrap",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Bootstrap project based on Gulp (sass (compass), mocha test runner, browserify etc.)",
   "main": "index.js",
   "scripts": {
